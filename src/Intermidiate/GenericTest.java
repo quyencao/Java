@@ -51,7 +51,6 @@ public class GenericTest {
 		
 		//List<String> ls = new ArrayList<String>(); // 1
 		//List<Object> lo = ls; // 2 
-
 	}
 }
 
